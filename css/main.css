@@ -233,28 +233,7 @@ body {
 	flex-flow: row wrap;
 }
 
-h1,
-h2,
-h3 {
-	color: black;
-	text-transform: uppercase;
-	font-weight: 700;
-}
-h1 {
-	font-size: 1.875em;
-}
-h2 {
-	font-size: 1.125em;
-}
-h3 {
-	font-size: 0.75em;
-}
 
-p {
-	font-size: 0.875em;
-	line-height: 21px;
-    padding: 0 30px;
-}
 
 /*The widths are in a percentage!*/
 header {
@@ -433,28 +412,6 @@ body {
 	flex-flow: row wrap;
 }
 
-h1,
-h2,
-h3 {
-	color: black;
-	text-transform: uppercase;
-	font-weight: 700;
-}
-h1 {
-	font-size: 1.875em;
-}
-h2 {
-	font-size: 1.125em;
-}
-h3 {
-	font-size: 0.75em;
-}
-
-p {
-	font-size: 0.875em;
-	line-height: 21px;
-    padding: 0 30px;
-}
 
 /*The widths are in a percentage!*/
 header {
@@ -562,6 +519,8 @@ header nav ul li a{
 .section-two {
 	border-left: 1px solid #eee;
 	border-right: 1px solid #eee;
+	padding-right: 20px;
+
 }
 
 .section-two h3,
